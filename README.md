@@ -1,16 +1,19 @@
-# expense_tracker
+tools Required : 
+- Android Studio / Vscode
+- Flutter version 3.10.5.
 
-A new Flutter project.
+How to run :
+- Open the source code in android studio or Vs code
+- Go to terminal
+- run the command flutter run
 
-## Getting Started
+I have used firebase and my project google-services.json file is placed for testing.
+In order to change the firebase follow the below instructions:
+- create a project on firebase
+- create firestore database
+- allow signin with email and password in firebase auth
+- create a storage bucket
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+following the uper instructions you can build app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
